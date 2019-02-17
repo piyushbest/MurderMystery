@@ -1,6 +1,6 @@
 name: Murder
-main: murder\murder\murder
-author: TheGrittlex (Update to 1.2.10 by MyMyMoly)
+main: murder\murder
+author: TheGrittlex, ElektroPrinz
 version: 1.0.4
 api: 3.0.0
 

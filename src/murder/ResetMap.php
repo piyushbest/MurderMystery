@@ -1,8 +1,8 @@
 <?php
 
-namespace murder\murder\Resetmap;
+namespace murder\Resetmap;
 
-use murder\murder\GameSender;
+use murderGameSender;
 
 class ResetMap
 {

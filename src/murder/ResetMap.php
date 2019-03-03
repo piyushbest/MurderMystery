@@ -4,8 +4,7 @@ namespace murder\Resetmap;
 
 use murderGameSender;
 
-class ResetMap
-{
+class ResetMap extends PluginTask {
     public function __construct(GameSender $plugin){
         $this->plugin = $plugin;
     }
